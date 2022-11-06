@@ -1,0 +1,64 @@
+aditya.bhattacharya2016@gmail.com
+
+https://www.kaggle.com/datasets/adityabhattacharya/fifa-club-position-prediction-dataset
+https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset
+https://www.kaggle.com/datasets/nejilee/indian-economy-from-1960-to-2020
+
+https://www.kaggle.com/getting-started/157316
+https://www.kaggle.com/code/alexisbcook/introduction/tutorial
+
+
+
+problem statement: To Understand the driving factors behind loan default. to showcase the variables which are strong indicators of default. 
+
+Data Cleaning:
+1. reading file
+2. check shape of the df
+3. remove special characters, spaces, ect.,
+2. check all columns null count sum
+3. check all columns null count percentage
+4. Drop columns having 100 percentage null values
+5. check shape of the df
+5. Drop columns having 75% null values
+6. findout columns having same values and drop them (optional)
+7. remove the columns which are not required as per yesterday slide (columns with costomer behavior)
+8. columns with unique values can be dropped becoz one can be used as primary key (ex: id, member_id, url) common LC
+9. columns with do not contibute in the analysis can be removed (ex: title, emp_title, zip_code...)
+10. check shape of the df after doing above steps
+11. check home ownership none values and based on that drop the columns - 
+12. check the ongoing loans  (current) column posibility
+13. changing datatype of columns ex: issue_d and split the column based on requirement like year and month
+14. add column for approved loan amount ratio 
+15. check emp_length column and handel null values for data accuracy
+16. outliner removel for ex: annual_inc column
+17.  
+
+
+
+graphs:
+loan amount applied
+loan amount approved ratio 
+loan status
+gradings
+grading and subgrading
+emp length
+home ownership
+verificarion status
+intrest rate
+untilization rate
+credit line
+
+loan issued year and month
+defaulting loan in grad and sub grad
+loan purpose
+annual income and loan taken purpose
+annual income vs home ownership
+intrest rate vs tenure length
+grade and funded loan
+annual income vs intrest rate
+defaulted loans state wise and fully paid loans state wise
+
+
+Correlation matrix
+
+Observations
