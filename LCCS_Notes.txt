@@ -47,12 +47,14 @@ grade and funded loan
 annual income vs intrest rate
 defaulted loans state wise and fully paid loans state wise
 
-
+----------------------------------------------------
 Salary+ Age + Loan Amount
 Loan Amount + Term + Interesrt Rate
 Home Ownership + Loan status
 Purpose+ Loan Amount + Loan Status + Title
-
+Grade+Loan Amount + Loan Status
+emp_length+loan_status
+----------------------------------------------------
 
 Correlation matrix
 
