@@ -34,26 +34,50 @@ emp length
 home ownership
 verificarion status
 intrest rate
-untilization rate
-credit line
-
+revolve util
+term
+emp_length+loan_status
+issued year
+issued month
+Home Ownership + Loan status
 loan issued year and month
 defaulting loan in grad and sub grad
 loan purpose
-annual income and loan taken purpose
-annual income vs home ownership
-intrest rate vs tenure length
-grade and funded loan
-annual income vs intrest rate
 defaulted loans state wise and fully paid loans state wise
 
-----------------------------------------------------
-Salary+ Age + Loan Amount
+
+bins:
+-----
+funded_amnt_inv
+funded_amnt
+annual_inc - pending
+dti
+
+annual income and loan taken purpose
+annual income vs home ownership
+annual income vs intrest rate
+
+intrest rate vs tenure length
+grade and funded loan
+Salary + Loan Amount
 Loan Amount + Term + Interesrt Rate
-Home Ownership + Loan status
-Purpose+ Loan Amount + Loan Status + Title
-Grade+Loan Amount + Loan Status
-emp_length+loan_status
+Purpose+ Loan Amount + Loan Status
+Grade+Loan Amount+ Loan Status
+loan_amnt+annual_acc+loan_status
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------
+
+
+
 ----------------------------------------------------
 
 Correlation matrix
