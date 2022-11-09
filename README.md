@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [IDES Used](#IDES used)
+* [IDES Used]
 
 ## General Information
 - Provide general information about your project here.
